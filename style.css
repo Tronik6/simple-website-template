@@ -139,6 +139,12 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
+.contenedor{
+  display: flex;
+}
+.profile{
+  margin-right:50;
+}
 
 
 
