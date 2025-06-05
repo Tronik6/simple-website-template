@@ -153,3 +153,8 @@ ul.main-menu li a.active {
 .logo{
   align: right;
 }
+
+.space{
+  justify-content: center;
+  align-items: center;
+}
